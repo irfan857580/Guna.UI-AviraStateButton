@@ -1,0 +1,15 @@
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\bin\Debug\AviraStateButton.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\bin\Debug\AviraStateButton.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\bin\Debug\AviraStateButton.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.ctl_AviraStateButton.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-AviraStateButton\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-AviraStateButton\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-AviraStateButton\AviraStateButton\AviraStateButton\obj\Debug\AviraStateButton.pdb
